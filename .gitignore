@@ -1,0 +1,15 @@
+# Zugangsdaten und lokale Einstellungen
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.claude/settings.local.json
+
+# Lokale Zwischenstände
+tmp/
+.DS_Store
+Thumbs.db
+*.log
+*.rbxl.lock
+*.rbxlx.lock
