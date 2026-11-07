@@ -62,7 +62,7 @@ Rebirths und Handel wurden als mögliche Planungsfragen erwähnt, aber nicht bes
 - Was passiert bei Verbindungsabbruch während Training, Graben, Tragen oder Verfolgung?
 - Gibt es Offline-Einkommen? Nicht aus den Bildern ableitbar und noch nicht entschieden.
 - Welche konkreten Anforderungen gelten bei der Veröffentlichung für die angestrebte junge Roblox-Zielgruppe? Vor Veröffentlichung anhand aktueller Plattformdokumentation prüfen.
-- Wie werden Studio-Inhalte und dateibasierter Code in diesem Repository gehalten? Rojo wurde als mögliche Verbindung besprochen, aber noch nicht eingerichtet.
+- Die Rojo-Grundstruktur für Server-, Client- und gemeinsamen Code ist mit default.project.json vorbereitet; Einrichtung und Prüfstatus stehen in STAND.md und docs/ROJO.md. Der Ablageweg für Map, Modelle und UI sowie die konkrete Studio-Verbindung müssen noch festgelegt beziehungsweise bestätigt werden.
 - Pro Arbeitspaket beobachtbare Fertigkriterien festlegen und den Stand am Ende der höchstens vierstündigen Arbeitsphase dokumentieren.
 
 ## Empfohlene Reihenfolge

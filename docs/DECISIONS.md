@@ -25,6 +25,8 @@ Stand: 7. November 2026. Ausschließlich Entscheidungen und relevante Korrekture
 | D17 | In die Ablage gehören alle relevanten Inhalte zu Steal a Crystal samt Inspiration; andere Spielideen und vollständiger Rohchat bleiben draußen. | Jüngste Präzisierung des Nutzers zur Dokumentation. |
 | D18 | Möglichst schnelle Fertigstellung, idealerweise in ungefähr einer Woche. Bei Start am 7. November ergibt sich der 14. November 2026 als Zieltermin. | Neue Nutzerpriorität am 7. November 2026; keine Fertigstellungszusage. |
 | D19 | Hoher Feinschliff ist nachrangig. Zunächst reichen dem Nutzer einige Wochen Nutzung; eine umfangreiche langfristige Entwicklung ist nicht das Ziel. | Nutzer akzeptiert bewusst einen kleinen, wenig ausgefeilten Titel. Spielerzahlen bleiben unbekannt. |
+| D20 | Eine gemeinsame STAND.md hält letzte Arbeit und nächste Schritte fest; Codex und Claude Code pflegen sie nach relevanten Arbeiten. | Expliziter Nutzerauftrag am 7. November 2026. |
+| D21 | Eine Rojo-Projektdatei bereitet die Verbindung des Repositorys mit Roblox Studio vor. | Expliziter Nutzerauftrag am 7. November 2026; technische Startkonfiguration und Anleitung ergänzt. |
 
 ## Relevante Korrekturen innerhalb dieses Projekts
 

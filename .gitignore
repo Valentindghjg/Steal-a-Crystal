@@ -8,6 +8,7 @@
 
 # Lokale Zwischenstände
 tmp/
+build/
 .DS_Store
 Thumbs.db
 *.log

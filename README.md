@@ -2,7 +2,7 @@
 
 Ein buntes Roblox-Spiel für besonders junge Kinder: Trainiere deine Grabkraft, grabe dich durch immer härtere Tunnel, hole Kristalle aus den Schatzhöhlen freundlicher Maulwurf-Wächter und baue in deiner Basis ein steigendes Einkommen auf.
 
-**Projektstand: Planung und visuelle Entwürfe, noch keine Spielimplementierung.** Stand: 7. November 2026.
+**Projektstand: Planung, visuelle Entwürfe und Rojo-Vorbereitung, noch keine Spielimplementierung.** Stand: 7. November 2026. Aktueller Arbeits- und Prüfstand: [STAND.md](STAND.md).
 
 **Neue Priorität:** Eine kleine spielbare Version in ungefähr einer Woche fertigstellen. Bei einem Start am 7. November ist der Zieltermin der 14. November 2026. Der Nutzer akzeptiert wenig Feinschliff und plant zunächst nur mit einigen Wochen Nutzung. Umfang und Wiederverwendung richten sich danach. Der Termin ist ein Entwicklungsziel, keine Zusage für Spielerzahlen oder eine Freigabe durch Roblox.
 
@@ -23,6 +23,8 @@ Hier werden nur Inhalte zu **Steal a Crystal** aufbewahrt. Dazu gehören die aus
 
 | Dokument | Inhalt |
 | --- | --- |
+| [STAND.md](STAND.md) | Gemeinsame Übergabe: letzte Arbeit, Prüfungen, offene Probleme und nächster Schritt |
+| [Rojo-Einrichtung](docs/ROJO.md) | Projektdatei, feste Werkzeugversion, Codeordner und Studio-Verbindung |
 | [Wochenplan](docs/WEEK_PLAN.md) | Kleiner Veröffentlichungsumfang, Arbeitspakete und Fertigkriterien |
 | [Spielkonzept](docs/GAME_DESIGN.md) | Aktueller Ablauf, Systeme und Grenzen |
 | [Entscheidungsregister](docs/DECISIONS.md) | Beschlossene Regeln und korrigierte Annahmen innerhalb dieses Projekts |
@@ -50,6 +52,8 @@ Die erste Bildserie wurde vom Nutzer positiv bestätigt. Damit ist die bunte, bl
 ![Werkzeugshop mit drei sichtbaren Beispielkarten](docs/design/03-tool-shop-v1.png)
 
 ## Zusammenarbeit
+
+Beide Assistenten lesen vor Arbeitsbeginn [STAND.md](STAND.md) und aktualisieren die Datei nach Änderungen. Das gilt auch für Arbeiten direkt in Roblox Studio. Aktive Arbeit und überprüfte Ergebnisse müssen erkennbar sein.
 
 ChatGPT/Codex unterstützt vor allem Spiel- und UI-Planung, Dokumentation und Prüfung. Claude Code soll hauptsächlich Programmierung, Roblox-Studio-Umsetzung und 3D-Gestaltung übernehmen. Beide arbeiten mit derselben Dokumentation.
 
