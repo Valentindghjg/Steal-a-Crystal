@@ -7,6 +7,8 @@ Lies zuerst README.md, docs/GAME_DESIGN.md, docs/DECISIONS.md und docs/OPEN_QUES
 ## Arbeitsphase und Rollen
 
 - Das Projekt befindet sich in der Planung. Es gibt noch keinen implementierten Spielstand.
+- Seit dem 7. November 2026 hat schnelle Fertigstellung Vorrang: Ziel ist eine kleine spielbare Version in ungefähr einer Woche, bei sofortigem Beginn bis 14. November 2026. docs/WEEK_PLAN.md lesen. Der Nutzer plant zunächst mit wenigen Wochen Nutzung; umfangreiche Langzeitentwicklung und hoher Feinschliff sind nicht das Ziel.
+- Den vereinbarten Kern erhalten, vorhandene Bauteile und Systeme wiederverwenden und Zusatzfunktionen nachrangig behandeln. Wenig Feinschliff rechtfertigt keine kaputte Kernfunktion oder verlorene Spielstände. Neue Einschränkungen des Spielablaufs und noch offene Regeln nicht als bereits beschlossen darstellen.
 - Spiel und Funktionen sollen vor der eigentlichen Umsetzung durchgeplant werden. Dokumentation und Bildentwürfe dürfen im Rahmen der Nutzeraufträge fortgesetzt werden; aus einem offenen Punkt nicht stillschweigend eine neue Spielregel machen.
 - ChatGPT/Codex: vor allem Konzept, UI-Planung, Dokumentation und Prüfung. Claude Code: vor allem Studio-Umsetzung, Programmierung und 3D-Gestaltung. Die Rollen sind die gewünschte Arbeitsaufteilung, keine Rangliste der Modelle.
 - Maximal vier Stunden pro selbstständiger Arbeitsphase. Keine unbegrenzten Fortsetzungsschleifen starten. Vor dem Ende den überprüften Stand, Änderungen und verbleibende Probleme dokumentieren.

@@ -1,6 +1,8 @@
 # Offene Fragen und nächste Planungsschritte
 
-Stand: 6. November 2026. Die Reihenfolge folgt den Abhängigkeiten. Diese Liste betrifft ausschließlich Steal a Crystal.
+Stand: 7. November 2026. Die Reihenfolge folgt den Abhängigkeiten. Diese Liste betrifft ausschließlich Steal a Crystal.
+
+Neue Priorität ist eine kleine spielbare Version in ungefähr einer Woche. Der [Wochenplan](WEEK_PLAN.md) begrenzt den vorgeschlagenen Umfang. Zuerst nur die blockierenden Regeln der ersten Version festlegen. Fragen zu nachrangigen Extras müssen die Fertigstellung des Kerns nicht verzögern.
 
 ## A. Map und Tunnel – zuerst
 
@@ -65,4 +67,4 @@ Rebirths und Handel wurden als mögliche Planungsfragen erwähnt, aber nicht bes
 
 ## Empfohlene Reihenfolge
 
-Tunnelregeln → Map-Grundriss → Kristall-/Wächter-/Basisregeln → fehlende UI-Bilder → vollständige Wertekurve und Inhaltsliste → Aufbau des ersten spielbaren Prototyps.
+Am ersten Planungstag die veröffentlichungsrelevanten Voraussetzungen und die blockierenden Tunnel-, Rückweg-, Fang- und Basisregeln klären. Danach einen vollständigen spielbaren Durchlauf bauen und denselben Aufbau für die restlichen Stages verwenden. Fehlende Oberflächen und Startwerte auf den beschlossenen kleinen Umfang begrenzen. Der Wochenplan enthält die konkrete Reihenfolge.

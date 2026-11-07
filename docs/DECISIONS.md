@@ -1,6 +1,6 @@
 # Entscheidungsregister
 
-Stand: 6. November 2026. Ausschließlich Entscheidungen und relevante Korrekturen zu Steal a Crystal. Keine Sammlung anderer Spielideen.
+Stand: 7. November 2026. Ausschließlich Entscheidungen und relevante Korrekturen zu Steal a Crystal. Keine Sammlung anderer Spielideen.
 
 ## Bestätigte Grundlagen
 
@@ -23,6 +23,8 @@ Stand: 6. November 2026. Ausschließlich Entscheidungen und relevante Korrekture
 | D15 | Rollenverteilung: ChatGPT/Codex vor allem Konzept/UI-Planung; Claude Code vor allem Studio, Programmierung und 3D-Arbeit. | Persönliche Einschätzung und Präferenz des Nutzers. |
 | D16 | Höchstens vier Stunden je selbstständiger Arbeitsphase. | Explizite Nutzergrenze. |
 | D17 | In die Ablage gehören alle relevanten Inhalte zu Steal a Crystal samt Inspiration; andere Spielideen und vollständiger Rohchat bleiben draußen. | Jüngste Präzisierung des Nutzers zur Dokumentation. |
+| D18 | Möglichst schnelle Fertigstellung, idealerweise in ungefähr einer Woche. Bei Start am 7. November ergibt sich der 14. November 2026 als Zieltermin. | Neue Nutzerpriorität am 7. November 2026; keine Fertigstellungszusage. |
+| D19 | Hoher Feinschliff ist nachrangig. Zunächst reichen dem Nutzer einige Wochen Nutzung; eine umfangreiche langfristige Entwicklung ist nicht das Ziel. | Nutzer akzeptiert bewusst einen kleinen, wenig ausgefeilten Titel. Spielerzahlen bleiben unbekannt. |
 
 ## Relevante Korrekturen innerhalb dieses Projekts
 
@@ -34,6 +36,7 @@ Stand: 6. November 2026. Ausschließlich Entscheidungen und relevante Korrekture
 
 ## Arbeitsvorschläge, die noch keine endgültigen Entscheidungen sind
 
+- Enger Veröffentlichungsumfang nach [WEEK_PLAN.md](WEEK_PLAN.md); Extras dafür zunächst zurückstellen. Das ist eine konkrete Empfehlung aus dem neuen Zeitrahmen, keine Bestätigung sämtlicher Einzelvorschläge.
 - Werkzeugbonus ausschließlich beim Training anwenden, ohne doppelte Verstärkung im Tunnel.
 - Bereits trainierte Kraft beim Werkzeugwechsel erhalten.
 - Persönlicher Grabfortschritt mit gemeinsam genutzten Kristallhöhlen.

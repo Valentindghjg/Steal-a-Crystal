@@ -2,7 +2,9 @@
 
 Ein buntes Roblox-Spiel für besonders junge Kinder: Trainiere deine Grabkraft, grabe dich durch immer härtere Tunnel, hole Kristalle aus den Schatzhöhlen freundlicher Maulwurf-Wächter und baue in deiner Basis ein steigendes Einkommen auf.
 
-**Projektstand: Planung und visuelle Entwürfe, noch keine Spielimplementierung.** Stand: 6. November 2026.
+**Projektstand: Planung und visuelle Entwürfe, noch keine Spielimplementierung.** Stand: 7. November 2026.
+
+**Neue Priorität:** Eine kleine spielbare Version in ungefähr einer Woche fertigstellen. Bei einem Start am 7. November ist der Zieltermin der 14. November 2026. Der Nutzer akzeptiert wenig Feinschliff und plant zunächst nur mit einigen Wochen Nutzung. Umfang und Wiederverwendung richten sich danach. Der Termin ist ein Entwicklungsziel, keine Zusage für Spielerzahlen oder eine Freigabe durch Roblox.
 
 ## Der Spielablauf
 
@@ -21,6 +23,7 @@ Hier werden nur Inhalte zu **Steal a Crystal** aufbewahrt. Dazu gehören die aus
 
 | Dokument | Inhalt |
 | --- | --- |
+| [Wochenplan](docs/WEEK_PLAN.md) | Kleiner Veröffentlichungsumfang, Arbeitspakete und Fertigkriterien |
 | [Spielkonzept](docs/GAME_DESIGN.md) | Aktueller Ablauf, Systeme und Grenzen |
 | [Entscheidungsregister](docs/DECISIONS.md) | Beschlossene Regeln und korrigierte Annahmen innerhalb dieses Projekts |
 | [Inspiration und Übertragung](docs/INSPIRATION.md) | Was von Steal an Egg stammt und wie es angepasst wird |

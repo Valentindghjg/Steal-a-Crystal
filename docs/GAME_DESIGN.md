@@ -1,6 +1,6 @@
 # Aktuelles Spielkonzept
 
-Stand: 6. November 2026. Dieses Dokument beschreibt nur Steal a Crystal. Die allgemeine Richtung ist beschlossen; offene Regeln sind ausdrücklich markiert.
+Stand: 7. November 2026. Dieses Dokument beschreibt nur Steal a Crystal. Die allgemeine Richtung ist beschlossen; offene Regeln sind ausdrücklich markiert.
 
 ## 1. Spielversprechen und Zielgruppe
 
@@ -102,4 +102,8 @@ Handy-Layout, Index, Bestandsverwaltung, Basisverbesserung und Situationsanzeige
 
 Einfacher Aufbau und schnelle Entwicklung sind zentrale Anforderungen. Vorgeschlagen sind vorbereitete abbaubare Blöcke, ein gemeinsames Trainingssystem für alle Werkzeuge und ein wiederverwendbarer Wächter-Grundkörper. Das sind Architekturvorschläge, noch keine implementierten Systeme.
 
-Alle wesentlichen Funktionen sollen vor dem Entwickeln festgelegt werden. Preise und Zeitwerte benötigen zusätzlich Spieltests. Die vollständige Auswahl der Extras für die erste Veröffentlichung steht noch aus; ein sichtbares Zusatzmenü im Vorbild bedeutet keine automatische Aufnahme.
+Seit dem 7. November gilt als neue Nutzerpriorität: möglichst innerhalb einer Woche fertig werden, wenig Feinschliff und zunächst nur einige Wochen Nutzung als Ziel. Bei sofortigem Start ist der 14. November 2026 das Entwicklungsziel. Der [Wochenplan](WEEK_PLAN.md) schlägt dafür einen eng begrenzten ersten Umfang vor.
+
+Die 12 Stages und 12 Werkzeuge bleiben vereinbart. Für eine schnelle Umsetzung werden wiederverwendbare Vorlagen und Varianten empfohlen; zwölf eigenständig entwickelte Mechaniken sind nicht vorgesehen. Zusätzliche Systeme des Vorbilds werden nicht automatisch Teil des Wochenumfangs.
+
+Alle wesentlichen Regeln der ersten Version sollen vor deren Umsetzung festgelegt werden. Die Planung konzentriert sich auf entscheidende Abhängigkeiten und wird nicht um immer weitere Extras verlängert. Preise und Zeitwerte benötigen zusätzlich Spieltests. Spielerreichweite und Freigabe für die junge Zielgruppe sind eigene Fragen neben der Entwicklungsdauer.
